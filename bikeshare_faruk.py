@@ -205,7 +205,15 @@ def main():
         user_stats(df)
         df = pd.read_csv(CITY_DATA[city])
 
-       
+        defne=0
+        while True:
+            abc = input("\nWould you like to view first 5 line? Enter yes or no.\n")
+            if abc.lower() == 'yes':
+                print(df[defne:defne+5])
+                defne+=5
+            elif abc.lower() == 'no':
+                break
+
 
         restart = input('\nWould you like to restart? Enter yes  or no y / n .\n')
         if restart.lower() != 'y':
