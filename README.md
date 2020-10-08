@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+8.10.2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare python project
 
 ### Description
-Describe what your project is about and what it does
+analysis of bikeshare system in three city: Chicago, New York City and Washington
 
 ### Files used
-Include the files used
+Chicago, New York City, Washington bikeshare data that includes first 6 months information of 2017.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+by Faruk KALIMKARA
 
